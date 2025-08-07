@@ -3,9 +3,10 @@
   "produto": "Membro-9",
   "upsells_comprados": [
     1,
-    "Bolo-Maracuja"
+    "Bolo-Maracuja",
+    "Pudim"
   ],
-  "data": "2025-08-07T14:01:19.445Z",
-  "transacao_id": "test-card-1754575279445",
+  "data": "2025-08-07T14:03:37.693Z",
+  "transacao_id": "test-card-1754575417693",
   "acesso_liberado": true
 }
